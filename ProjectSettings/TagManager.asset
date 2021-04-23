@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Inimigo
+  - Coletavel
+  - Virtual Camera
+  - NPC
+  - Porta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bloqueio
+  - Piso
+  - Objeto
+  - Consumivel
+  - Inimigo
+  - Agua
+  - Municao
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Piso
+    uniqueID: 1594273249
+    locked: 0
+  - name: Agua
+    uniqueID: 3177888253
+    locked: 0
+  - name: Objeto
+    uniqueID: 3698340253
+    locked: 0
+  - name: Caracteres
+    uniqueID: 413980363
+    locked: 0
